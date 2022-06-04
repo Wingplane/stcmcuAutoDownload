@@ -9,5 +9,5 @@
  - 满足以上条件后，在 `my_username = <username>` 和 `my_password = <password>` 中填入自己的用户名和密码，进入文件夹中运行 edge.py 即可
 
 ## 可能存在的问题
- - website.txt 中的部分网址可能存在下载链接失效的问题，会在后续测试的过程中更新。
+ - [website.txt](https://github.com/Wingplane/stcmcuAutoDownload/blob/main/edgestcsignin/website.txt) 中的部分网址可能存在下载链接失效的问题，会在后续测试的过程中更新。
  - 如果出现点击 立即下载 后弹出无标题的标签页但是很久没有能够得到下载链接的情况，这可能是因为网速的问题，可以适当的延长延时的时间。相反，如果网速足够快的情况下可以取消延时。
